@@ -11,6 +11,6 @@ $ pkg install git
 
 $ git clone https://github.com/MRV1N5/vipcrack
 
-$ cd viprack
+$ cd vipcrack
 
 $ python2 darkfb.py
