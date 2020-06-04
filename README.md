@@ -17,4 +17,4 @@ $ git clone https://github.com/MRV1N5/vipcrack
 
 $ cd viprack
 
-$ python2 darkid.py
+$ python2 darkfb.py
